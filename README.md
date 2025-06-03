@@ -23,10 +23,10 @@
 </style>
  <body>
 
-<header>
+<h1>
     <h1><p style="color: #117A65;"> Welcome to Perfect0 Football Club</h1></P>
     <p>Your home of sports</p>
-</header>
+</h1>
 
 <nav>
     <a href="#">Home</a>
